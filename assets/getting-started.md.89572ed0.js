@@ -1,1 +1,0 @@
-import{d as e,o as t,c as a,a as _}from"./app.25738a72.js";import{_ as s}from"./chunks/BookMarks.90306d82.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"getting-started.md"}'),r={name:"getting-started.md"},l=Object.assign(r,{setup(n){return e(),(o,c)=>(t(),a("div",null,[_(s)]))}});export{p as __pageData,l as default};
