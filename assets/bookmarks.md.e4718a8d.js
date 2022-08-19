@@ -1,0 +1,1 @@
+import{B as e}from"./chunks/BookMarks.055ddf88.js";import{o as t,c as a,b as o}from"./app.35472269.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home"},"headers":[],"relativePath":"bookmarks.md"}'),r={name:"bookmarks.md"},p=Object.assign(r,{setup(s){return(c,m)=>(t(),a("div",null,[o(e)]))}});export{l as __pageData,p as default};
