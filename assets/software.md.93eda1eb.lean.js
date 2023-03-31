@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as o,a as t}from"./app.35472269.js";const m=JSON.parse('{"title":"\u6709\u7528\u8F6F\u4EF6\u63A8\u8350","description":"","frontmatter":{},"headers":[],"relativePath":"software.md"}'),r={name:"software.md"},d=t("",2),c=[d];function _(i,s,n,l,p,f){return a(),o("div",null,c)}var u=e(r,[["render",_]]);export{m as __pageData,u as default};
